@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;700&display=swap');
+
+body{
+    background: rgb(21,255,182);
+background: linear-gradient(90deg, rgba(21,255,182,1) 0%, rgba(0,230,223,1) 35%, rgba(234,90,255,1) 100%);
+color: rgb(0, 11, 110);
+
+font-size: 25px;
+font-weight: normal;
+font-family:'Times New Roman', Times, serif;
+
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+}
+
+tr{
+    text-align: center;
+    border: 2px solid black;
+}
+
+th:hover{
+    color: rgb(0, 54, 201);
+}
+
+th{
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+}
+
+td:hover{
+    background: rgb(21,255,182);
+background: linear-gradient(90deg, rgba(21,255,182,1) 0%, rgba(0,230,223,1) 35%, rgba(234,90,255,1) 100%);
+
+color: #fff;
+
+width: 260px;
+height: 110px;
+
+font-size: 25px;
+font-weight: bold;
+border: 2px solid wheat;
+
+}
+
+td{
+    width: 260px;
+    height: 110px;
+    border: 2px solid black;
+}
+
+
+img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    
+}
+h1:hover{
+    color: rgb(4, 0, 255);
+}
+table{
+    border: inset black;
+}
+
+th:hover{
+    color: rgb(255, 0, 242);
+}
+h1{
+    width: 270px;
+    height: 120px;
+    text-align: center;
+    font-size: 48px;
+}
